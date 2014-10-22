@@ -1,5 +1,5 @@
 {
-  "name": "es6-jasmine-karma-playground",
+  "name": "es6-require-jasmine-karma-playground",
   "version": "0.0.0",
   "description": "An ES6 playground that uses the Traceur compiler, requirejs, jasmine and Karma",
   "main": "index.html",
