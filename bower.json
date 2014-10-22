@@ -1,0 +1,25 @@
+{
+  "name": "es6-jasmine-karma-playground",
+  "version": "0.0.0",
+  "authors": [
+    "Riccardo Coppola <ricca509@gmail.com>"
+  ],
+  "description": "An ES6 playground that uses the Traceur compiler, requirejs, jasmine and Karma",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {    
+    "requirejs": "~2.1.15",
+    "traceur-runtime": "~0.0.72"
+  }
+}

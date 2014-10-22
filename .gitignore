@@ -1,0 +1,6 @@
+.grunt
+bower_components
+build/src/vendor
+node_modules
+src/vendor
+_SpecRunner.html
